@@ -13,7 +13,7 @@ import javax.validation.Valid;
 @RestController
 @RequestMapping("/api/animal/")
 @CrossOrigin
-@PreAuthorize("hasRole('VET') or hasRole('ADMIN')")
+//@PreAuthorize("hasRole('VET') or hasRole('ADMIN')")
 public class AnimalController {
     private AnimalService _animalService;
 

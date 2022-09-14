@@ -12,7 +12,6 @@ import javax.validation.Valid;
 
 @RestController
 @RequestMapping("/api/user/")
-@PreAuthorize("hasRole('ADMIN')")
 public class UserController {
     private UserService _userService;
 
