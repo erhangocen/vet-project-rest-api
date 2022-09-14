@@ -2,6 +2,7 @@ package veterinerProject.w34.api;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
+import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.web.bind.annotation.*;
 import veterinerProject.w34.bussiness.abstracts.UserService;
 import veterinerProject.w34.entities.concretes.User;
@@ -11,6 +12,7 @@ import javax.validation.Valid;
 
 @RestController
 @RequestMapping("/api/user/")
+@PreAuthorize("hasRole('ADMIN')")
 public class UserController {
     private UserService _userService;
 
