@@ -1,7 +1,7 @@
 # Vet-Project-Rest-Api
 
-## 🙀 Project link : 
-## 🐶 API document link : 
+## 🙀 Project link : https://master.d22qoy591gdhoq.amplifyapp.com
+## 🐶 API document link : http://44.203.152.14:8081/swagger-ui.html
 
 ## ⬇️⬇️ You need to do before starting the project ⬇️⬇️
 
