@@ -1,7 +1,7 @@
 # Vet-Project-Rest-Api
 
 ## 🙀 Project link : https://veterinerproject.tk
-## 🐶 API document link : https://ksvc-vet-rest-api-erhangocen-dev.apps.sandbox.x8i5.p1.openshiftapps.com/swagger-ui.html
+## 🐶 <a href="https://ksvc-vet-rest-api-erhangocen-dev.apps.sandbox.x8i5.p1.openshiftapps.com/swagger-ui.html" target="_blank">API document link</a> 
 
 ### If you want the become a vet, you will text me 🧑‍⚕️
 
